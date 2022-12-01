@@ -1,0 +1,34 @@
+Problem-1. Identify which of the following variable names are valid SAS names: 
+
+ Height 
+ HeightInCentimeters 
+ Height_in_centimeters 
+ Wt-Kg 
+ x123y456 
+ 76Trombones 
+ MiXeDCasE
+
+Solution: Height, HeightInCentimeters , Height_in_centimeters , x123y456 , MiXeDCasE
+
+Problem-2. In the following list, classify each data set name as valid or invalid: 
+ Clinic 
+ clinic 
+ work 
+ hyphens-in-the-name 
+ 123GO 
+ Demographics_2006
+
+Solution:Clinic, clinic, work, Demographics_2006
+
+Problem-3. You have a data set consisting of Student ID, English, History, Math, and Science 
+test scores on 10 students. 
+a. The number of variables is __________ 
+b. The number of observations is __________
+
+Solution: a.5 , b.10
+
+Problem-4. True or false: 
+a. You can place more than one SAS statement on a single line. True.
+b. You can use several lines for a single SAS statement. 	True.
+c. SAS has three data types: character, numeric, and integer.   False. Character and Numeric
+d. OPTIONS and TITLE statements are considered global statements. True. 
